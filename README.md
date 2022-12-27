@@ -1,2 +1,2 @@
-# Yextly.Xunit.Testing
+# Yextly.Testing.Xunit
 Testing helpers and libraries for xUnit.
